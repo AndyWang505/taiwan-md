@@ -23,8 +23,8 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 ## ✨ Features
 
-- 📖 **365+ curated articles** across 12 categories (271 zh-TW + 94 en)
-- 🌐 **Bilingual** — 繁體中文 (SSOT) + English (100% i18n coverage)
+- 📖 **660+ curated articles** across 12 categories (321 zh-TW + 339 en)
+- 🌐 **Bilingual** — 繁體中文 (SSOT) + English (97%+ i18n coverage)
 - 🤖 **AI-native** — [`llms.txt`](https://taiwan.md/llms.txt), [`robots.txt`](https://taiwan.md/robots.txt), structured Markdown SSOT
 - 🕸️ **Interactive knowledge graph** — D3.js force simulation with zoom, drag, cross-category bridges
 - 🌳 **Resource mindmap** — D3.js bidirectional tidy tree with 146+ official Taiwan websites
@@ -43,33 +43,33 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 | Metric                   | Count |
 | ------------------------ | ----- |
-| 📄 Total pages built     | 365+  |
-| 🇹🇼 Chinese articles      | 271   |
-| 🇺🇸 English articles      | 94    |
+| 📄 Total pages built     | 660+  |
+| 🇹🇼 Chinese articles      | 321   |
+| 🇺🇸 English articles      | 339   |
 | 📂 Categories            | 12    |
 | 🏛️ Hub pages             | 12    |
 | 🕸️ Knowledge graph nodes | 220+  |
 | 🔗 Resource websites     | 146+  |
-| 👥 Contributors          | 16    |
+| 👥 Contributors          | 23    |
 
 ---
 
 ## 🗂️ 12 Categories
 
-|     | Category                                        | Articles | Highlights                                |
-| --- | ----------------------------------------------- | -------- | ----------------------------------------- |
-| 📜  | [歷史 History](https://taiwan.md/history)       | 12       | 史前→荷西→清治→日治→戒嚴→民主化           |
-| 🗺️  | [地理 Geography](https://taiwan.md/geography)   | 11       | 五大山脈、板塊運動、氣候帶、離島          |
-| 🎭  | [文化 Culture](https://taiwan.md/culture)       | 19       | 閩南客家原住民外省新住民多元融合、花布    |
-| 🧋  | [美食 Food](https://taiwan.md/food)             | 11       | 珍珠奶茶、牛肉麵、夜市、茶文化、客家菜    |
-| 🎨  | [藝術 Art](https://taiwan.md/art)               | 22       | 當代藝術、新媒體藝術、電影、漫畫          |
-| 🎵  | [音樂 Music](https://taiwan.md/music)           | 10       | 金曲獎、獨立音樂、聲音地景                |
-| 💻  | [科技 Technology](https://taiwan.md/technology) | 17       | 台積電矽盾、g0v 公民科技、半導體          |
-| 🌿  | [自然 Nature](https://taiwan.md/nature)         | 15       | 特有種、國家公園、步道文化                |
-| 👤  | [人物 People](https://taiwan.md/people)         | 14       | 李安、張忠謀、鄧麗君、唐鳳、侯孝賢...     |
-| 🏛️  | [社會 Society](https://taiwan.md/society)       | 17       | 民主制度、人權與性別平等、外交            |
-| 💰  | [經濟 Economy](https://taiwan.md/economy)       | 16       | 經濟奇蹟、夜市經濟學、電商                |
-| 🏙️  | [生活 Lifestyle](https://taiwan.md/lifestyle)   | 13       | 便利商店、健保、交通、溫泉、KTV、咖啡文化 |
+|     | Category                                        | Articles | Highlights                                         |
+| --- | ----------------------------------------------- | -------- | -------------------------------------------------- |
+| 📜  | [歷史 History](https://taiwan.md/history)       | 19       | 史前→荷西→清治→日治→戒嚴→民主化、白色恐怖、二二八 |
+| 🗺️  | [地理 Geography](https://taiwan.md/geography)   | 17       | 五大山脈、板塊運動、氣候帶、離島、海岸地形         |
+| 🎭  | [文化 Culture](https://taiwan.md/culture)       | 25       | 閩南客家原住民外省新住民、花布、16族文化地圖       |
+| 🧋  | [美食 Food](https://taiwan.md/food)             | 26       | 珍珠奶茶、牛肉麵、夜市、滷肉飯、鹹酥雞、眷村菜   |
+| 🎨  | [藝術 Art](https://taiwan.md/art)               | 25       | 當代藝術、新媒體藝術、電影、漫畫、原住民當代藝術   |
+| 🎵  | [音樂 Music](https://taiwan.md/music)           | 20       | 金曲獎、獨立音樂、聲音地景、客語歌謠、電子音樂     |
+| 💻  | [科技 Technology](https://taiwan.md/technology) | 21       | 台積電矽盾、g0v 公民科技、半導體、資安             |
+| 🌿  | [自然 Nature](https://taiwan.md/nature)         | 22       | 特有種、國家公園、高山冰河孑遺、海洋珊瑚礁         |
+| 👤  | [人物 People](https://taiwan.md/people)         | 105      | 李安、張忠謀、鄧麗君、唐鳳、侯孝賢、林懷民...     |
+| 🏛️  | [社會 Society](https://taiwan.md/society)       | 20       | 民主制度、人權與性別平等、外交、環境正義           |
+| 💰  | [經濟 Economy](https://taiwan.md/economy)       | 17       | 經濟奇蹟、夜市經濟學、電商、半導體供應鏈           |
+| 🏙️  | [生活 Lifestyle](https://taiwan.md/lifestyle)   | 16       | 便利商店、健保、交通、溫泉、KTV、咖啡文化         |
 
 ---
 
